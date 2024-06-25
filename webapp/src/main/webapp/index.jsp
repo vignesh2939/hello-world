@@ -3,7 +3,7 @@
 
 <div id="outside">
 <form id="survey-form" action="/my-handling-form-page" method="post">
-  <h1 id="title">Application for permission to date my daughter</h1>
+  <h1 id="title">bunty</h1>
   <p id="description"><b>Note:</b> Form is to be completed at least 21 days prior to date</p>
   
   <!-- ------------------Personal Details---------------------------- -->
@@ -27,7 +27,7 @@
       <label id="iq-label" for="iq">IQ:</label>
       <input type="number" id="iq" name="iq" placeholder="Enter IQ here">   </div>
 
-    <!-- ------------------Radio Buttons-------------------------------- -->
+
     <div>
       <label for="Gender">Gender</label>
       <p>
