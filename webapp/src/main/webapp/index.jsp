@@ -6,7 +6,7 @@
   <h1 id="title">New User Register Application For Jobs </h1>
   <p id="description"><b>Note:</b> Form is to be completed at least 21 days prior to date</p>
   
-  <!-- ------------------son Details---------------------------- -->
+  <!-- ------------------son---------------------------- -->
   <fieldset>
     <!-- groups of widgets that share the same purpose, for styling and semantic purposes -->
     <legend>Personal Details</legend>
